@@ -16,3 +16,5 @@ I tried to show effects of parameters on filter. These parameters are
 Firstly, I demonstrated filter and its fourier transform. It can be understood that gsbor filter is bandpass filter.
 
 Then, I used example image which was applied bank of gabor filter with different orientatons (theta values).
+
+Both codes worked like *interactive simulations*
