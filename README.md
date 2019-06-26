@@ -17,4 +17,4 @@ Firstly, I demonstrated filter and its fourier transform. It can be understood t
 
 Then, I used example image which was applied bank of gabor filter with different orientatons (theta values).
 
-Both codes worked like **interactive simulations**
+Both codes work like **interactive simulations**
